@@ -1,0 +1,57 @@
+header, section, footer, article {
+    display: block;
+}
+body{
+    color: #666666;
+    background-color: #f9f8f6;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs5hy_BjRpoV8su-wyKF3SWBNDVWMTc3iYIW5OwmX7VJxcHmsU");
+    background-position: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.4em;
+    margin: 0px;
+}
+.menu{
+    width: 940px;
+    margin: 20px auto 20px auto;
+    border: 2px solid #000000;
+    background-color: #ffffff;
+}
+h1 {
+    margin: 10px auto 25px auto;
+    background-color: #293340;
+    color: white;
+    text-align: center;
+    width: 940 px;
+    border: 2px solid #000000;
+    height: 160 px;
+    font-size: 150%;
+
+    }
+.menu_committee {
+    border: 1px solid #665544;
+    overflow: auto;
+    width: 100%;
+}
+.menu_legislation {
+    border: 1px solid #665544;
+    overflow: auto;
+    width: 100%;
+
+}
+h2.menu_committee--title {
+    background-color: #293340
+
+    }
+h2.menu_legislation--title {
+    background-color: #293340;
+}
+h2 {
+    color: white;
+}
+img.menu_info--image {
+    display: block;
+    margin: 0px auto;
+    width: 250 px;
+    height: 250 px;
+    border-radius: 50%;
+}
